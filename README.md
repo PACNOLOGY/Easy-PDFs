@@ -9,7 +9,7 @@ Prerequisites:
   Any photos you'll be putting through this process
 
 We're gonna start with a new file in GIMP, preferably the size of whatever paper your office or agency uses.
-<img src=[https://i.imgur.com/ripaPY9.png](https://imgur.com/WoEothL)>
+<img src=https://imgur.com/WoEothL>
 Now that we have our blank canvas, we're going to load all our photos.  The way we're going to do this is by clicking "open as layers"
 PIC 02
 We will then select all the photos we want to use for our PDF, and open
