@@ -4,9 +4,9 @@ quick pipeline to turn a series of folders into a PDF
 We are going to cover a quick and easy process for turning a series of photos into a PDF for easy presentation.
 
 Prerequisites:
-  GIMP which you can download from https://www.gimp.org/, just install the version best for your OS, it covers the big 3
-  Any PDF program, even your web browser will work
-  Any photos you'll be putting through this process
+  -GIMP which you can download from https://www.gimp.org/, just install the version best for your OS, it covers the big 3.
+  -Any PDF program, even your web browser will work.
+  -Any photos you'll be putting through this process
 
 We're gonna start with a new file in GIMP, preferably the size of whatever paper your office or agency uses.
 <img src=https://imgur.com/WoEothL.png>
