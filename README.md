@@ -24,13 +24,18 @@ if they're in need of resizing, use the "Unified Transform Tool". NOTE: be sure 
 When resizing, hold [CTRL] or [Command] to keep the image aspect ratio.
 <img src=https://imgur.com/7alb8eN.png>
 
-<img src=https://imgur.com/0pY0JwZ.png>
-
 NOTE: you may have to do this per layer, so if you need to, the layer panel will be on the right side of the screen if working from default installation.  Use the eyeball icons to hide and show layers.
 
-Once we have all our layers visible and a size we like, we're now going to make the PDF.  To do this, we simply click "export as..." and navigate to where we want to save our new PDF, then set the filename to "<filename>.pdf
+<img src=https://imgur.com/0pY0JwZ.png>
+
+Once we have all our layers visible and a size we like, we're now going to make the PDF.  To do this, we simply click "export" or "export as..." and navigate to where we want to save our new PDF, then set the filename to "<filename>.pdf.
+
 <img src=https://imgur.com/y8GvNGk.png>
+
 VERY IMPORTANT STEP: We will be faced with a dialog box.  Make sure to tick the 2 boxes that say "Layers as pages (top layers first)" and "Reverse the pages order" as when we imported our photos as layers, the first in the sequence was laid down as the bottom layer.
+
 <img src=https://imgur.com/GxuAZHw.png>
+
 Click on "Export", and you're done.  Navigate to where you exported the PDF and test it out!
+
 <img src=https://imgur.com/ZlU1Xgr.png>
