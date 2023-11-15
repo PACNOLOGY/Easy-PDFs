@@ -39,3 +39,5 @@ VERY IMPORTANT STEP: We will be faced with a dialog box.  Make sure to tick the 
 Click on "Export", and you're done.  Navigate to where you exported the PDF and test it out!
 
 <img src=https://imgur.com/ZlU1Xgr.png>
+
+For advanced users: if you're familiar with photoshop, then you'll find the same principles apply in GIMP.  if you want to add text to your pages, just be sure to merge each text layer with its corresponding photo layer, so it knows to include both per page.
