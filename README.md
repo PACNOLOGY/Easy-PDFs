@@ -1,5 +1,5 @@
 # Easy-PDFs
-quick pipeline to turn a series of folders into a PDF
+quick pipeline to turn a series of images into a PDF
 
 We are going to cover a quick and easy process for turning a series of photos into a PDF for easy presentation.
 
