@@ -5,11 +5,11 @@ We are going to cover a quick and easy process for turning a series of photos in
 
 Prerequisites:
 
-  -GIMP which you can download from https://www.gimp.org/, just install the version best for your OS, it covers the big 3 (windows, mac, linux).
+  -GIMP, which you can download from https://www.gimp.org/, just install the version best for your OS, it covers the big 3 (windows, mac, linux).
   
   -Any PDF program, even your web browser will work.
   
-  -Any photos you'll be putting through this process
+  -Any photos you'll be putting through this process.
 
 We're gonna start with a new file in GIMP, preferably the size of whatever paper your office or agency uses.
 <img src=https://imgur.com/WoEothL.png>
@@ -28,7 +28,7 @@ NOTE: you may have to do this per layer, so if you need to, the layer panel will
 
 <img src=https://imgur.com/0pY0JwZ.png>
 
-Once we have all our layers visible and a size we like, we're now going to make the PDF.  To do this, we simply click "export" or "export as..." and navigate to where we want to save our new PDF, then set the filename to "<filename>.pdf.
+Once we have all our layers visible and a size we like, we're now going to make the PDF.  To do this, we simply click "export" or "export as..." and navigate to where we want to save our new PDF, then set the filename to "<filename>.pdf".
 
 <img src=https://imgur.com/y8GvNGk.png>
 
